@@ -1,0 +1,21 @@
+Dataset,Seed,Compared with,"Proposed right, baseline wrong","Proposed wrong, baseline right",McNemar p
+tan,0,Logistic Regression (FPR-constrained),277,8,3.23821267237707e-71
+tan,0,SVM (FPR-constrained),72,5,2.8041083952368736e-16
+tan,0,Random Forest (FPR-constrained),16,6,0.052478790283203125
+tan,0,Gradient Boosting (FPR-constrained),6,6,1.0
+tan,1,Logistic Regression (FPR-constrained),243,9,2.804212266296203e-60
+tan,1,SVM (FPR-constrained),68,10,9.70811491825464e-12
+tan,1,Random Forest (FPR-constrained),11,3,0.057373046875
+tan,1,Gradient Boosting (FPR-constrained),5,7,0.7744140625
+tan,2,Logistic Regression (FPR-constrained),250,5,3.044184759094947e-67
+tan,2,SVM (FPR-constrained),87,5,2.1043483669078263e-20
+tan,2,Random Forest (FPR-constrained),12,6,0.237884521484375
+tan,2,Gradient Boosting (FPR-constrained),6,11,0.332305908203125
+tan,3,Logistic Regression (FPR-constrained),249,9,5.428548489726058e-62
+tan,3,SVM (FPR-constrained),81,9,1.2793974524745824e-15
+tan,3,Random Forest (FPR-constrained),21,4,0.0009105205535888672
+tan,3,Gradient Boosting (FPR-constrained),9,5,0.4239501953125
+tan,4,Logistic Regression (FPR-constrained),278,3,1.9036913674789422e-78
+tan,4,SVM (FPR-constrained),91,4,1.6794639150698915e-22
+tan,4,Random Forest (FPR-constrained),10,3,0.09228515625
+tan,4,Gradient Boosting (FPR-constrained),10,4,0.1795654296875
