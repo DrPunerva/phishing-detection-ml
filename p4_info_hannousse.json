@@ -1,0 +1,9 @@
+{
+  "dataset": "hannousse",
+  "urls": 11429,
+  "phishing": 5714,
+  "legitimate": 5715,
+  "latency_ms_median": 37.66763299995546,
+  "latency_ms_p95": 57.036683899980304,
+  "test_size": 2286
+}
