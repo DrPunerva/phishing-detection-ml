@@ -1,0 +1,20 @@
+{
+  "rows": 11430,
+  "phishing": 5715,
+  "legitimate": 5715,
+  "features_total": 87,
+  "external_features_found": [
+    "whois_registered_domain",
+    "domain_registration_length",
+    "domain_age",
+    "web_traffic",
+    "dns_record",
+    "google_index",
+    "page_rank"
+  ],
+  "url_feature_range": [
+    "length_url",
+    "statistical_report"
+  ],
+  "test_size": 2286
+}
