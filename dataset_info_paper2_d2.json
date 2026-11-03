@@ -1,0 +1,14 @@
+{
+  "D2_rows": 1501,
+  "D2_human": 501,
+  "D2_llm": 1000,
+  "D2_median_chars_human": 594.0,
+  "D2_median_chars_llm": 600.0,
+  "D2_paragraph_breaks_human": 0.021956087824351298,
+  "D2_paragraph_breaks_llm": 0.0,
+  "D2_E3_length_window": [
+    173,
+    2111
+  ],
+  "D2_E3_rows_per_class": 426
+}
