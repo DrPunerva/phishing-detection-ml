@@ -1,0 +1,32 @@
+{
+  "A0 none (clean)": [
+    "http://email.m-aut.ru/1/btochanneldriver.ssobto.html",
+    "http://www.venturaluca.com/auth/view/share/",
+    "http://apple.com.aieuv.cn/mim/1m7l049675d2373i62mx6081l900mw61qc38l7j0c7s5mcq5y3.html"
+  ],
+  "A1 https": [
+    "https://email.m-aut.ru/1/btochanneldriver.ssobto.html",
+    "https://www.venturaluca.com/auth/view/share/",
+    "https://apple.com.aieuv.cn/mim/1m7l049675d2373i62mx6081l900mw61qc38l7j0c7s5mcq5y3.html"
+  ],
+  "A2 no suspicious words": [
+    "http://email.m-aut.ru/1/btochanneldriver.ssobto.html",
+    "http://www.venturaluca.com/auth/view/share/",
+    "http://apple.com.aieuv.cn/mim/1m7l049675d2373i62mx6081l900mw61qc38l7j0c7s5mcq5y3.html"
+  ],
+  "A3 homepage only": [
+    "http://email.m-aut.ru/",
+    "http://www.venturaluca.com/",
+    "http://apple.com.aieuv.cn/"
+  ],
+  "A4 add www.": [
+    "http://www.email.m-aut.ru/1/btochanneldriver.ssobto.html",
+    "http://www.venturaluca.com/auth/view/share/",
+    "http://www.apple.com.aieuv.cn/mim/1m7l049675d2373i62mx6081l900mw61qc38l7j0c7s5mcq5y3.html"
+  ],
+  "A5 all four": [
+    "https://www.email.m-aut.ru/",
+    "https://www.venturaluca.com/",
+    "https://www.apple.com.aieuv.cn/"
+  ]
+}

@@ -1,0 +1,6 @@
+Dataset,Seed,Compared with,"Proposed right, baseline wrong","Proposed wrong, baseline right",McNemar p
+tan,0,MLP (FPR-constrained),109,8,8.845133711853035e-24
+tan,1,MLP (FPR-constrained),45,14,6.530630444913366e-05
+tan,2,MLP (FPR-constrained),92,8,3.208563668244003e-19
+tan,3,MLP (FPR-constrained),71,10,1.799344170436706e-12
+tan,4,MLP (FPR-constrained),74,5,7.981384997696379e-17
