@@ -1,0 +1,28 @@
+{
+  "hannousse": [
+    11430,
+    5715
+  ],
+  "tan": [
+    10000,
+    5000
+  ],
+  "shared_features": {
+    "UrlLength": "length_url",
+    "HostnameLength": "length_hostname",
+    "NumDots": "nb_dots",
+    "NumDash": "nb_hyphens",
+    "AtSymbol": "nb_at",
+    "TildeSymbol": "nb_tilde",
+    "NumUnderscore": "nb_underscore",
+    "NumPercent": "nb_percent",
+    "NumAmpersand": "nb_and",
+    "IpAddress": "ip",
+    "NumSensitiveWords": "phish_hints",
+    "PctExtHyperlinks": "ratio_extHyperlinks",
+    "ExtFavicon": "external_favicon",
+    "MissingTitle": "empty_title",
+    "DoubleSlashInPath": "nb_dslash",
+    "PopUpWindow": "popup_window"
+  }
+}
